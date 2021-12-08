@@ -6,3 +6,7 @@ We built a classfier to predict when a customer will soon stop doing business wi
 
 # What modeling algorithm works best?
 We used Logistic Regression, K-Neighbors, and Decision trees to model our prediction for churn data.
+
+# Interpretation
+
+# Reccomendation/Future Analysis
