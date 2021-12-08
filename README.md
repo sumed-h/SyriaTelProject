@@ -11,6 +11,5 @@ We used Logistic Regression, K-Neighbors, and Decision trees to model our predic
 
 # Interpretation
 
-# Reccomendation/Future Analysis
+# Recommendation/Future Analysis
 
-# Conclusion
