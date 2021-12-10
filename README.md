@@ -23,10 +23,10 @@ We used Logistic Regression, K-Neighbors, and Decision trees to model our predic
 ### Account Length
 
 We saw that account length doesn't seem to have a significant effect on the overall chance a customer quits SyriaTel's service or not because the means and standard deviations are relatively the same. (Std Dev difference was ~0.02 while Mean difference was ~0.06)
--Mean Account Length for Churn: 3.42
--Standard Deviation Account Length for Churn: 1.32
--Mean Account Length for Not Churn: 3.36
--Standard Deviation Account Length for Not Churn: 1.33
+- Mean Account Length for Churn: 3.42
+- Standard Deviation Account Length for Churn: 1.32
+- Mean Account Length for Not Churn: 3.36
+- Standard Deviation Account Length for Not Churn: 1.33
 
 ![chart1](./Images/AccountLength.jpg)
 
