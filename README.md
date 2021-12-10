@@ -87,7 +87,7 @@ Please review our full analysis in our [Jupyter Notebook](./Final_Notebook.ipynb
 ## Repository Structure
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── Final Notebook .ipynb               <- Narrative documentation of analysis in Jupyter notebook
+├── Final_Notebook.ipynb                <- Narrative documentation of analysis in Jupyter notebook
 ├── Project3_presentation.pdf           <- PDF version of project presentation
 ├── customer_churn_data.csv             <- Both sourced externally and generated from code
 └── Images                              <- Both sourced externally and generated from code
