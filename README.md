@@ -69,6 +69,7 @@ The timing of the day and the type of plan had no effect on a customer churning 
 ![chart7](./Images/TotalCalls.jpg)
 
 # Interpretation
+  After constructing three final models (k nearest neighbors, decision tree, and logistic regression) we compared the metrics. Upon comparison we quickly realized that the decision tree model, which was tuned with gridsearch works the best. It has the highest accuracy, F1 score, precision and most importantly recall. Our final deicision tree model had a recall rate of 83%. This means that 83% of the true churns were identified. There is still, obviously, room for improvement here as 17% of the customers that churned were improperly categorized as not churning. However, in comparision to all the other models we built it still performs the best.
 
 
 # Recommendation
