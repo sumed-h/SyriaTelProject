@@ -5,7 +5,7 @@ SyriaTel is a telecommunications company hoping to foresee and prevent client ch
 We built a classfier to predict when a customer will soon stop doing business with SyriaTel. The audience will be SyriaTel itself who are interested in how to improve their customer rettention rates.
 
 # Dataset
-The dataset we used was sourced from this:[customer_churn_data](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contained 21 columns and and 3333 rows. It was already pretty much clean with no null values or any outliers.
+The dataset we used was sourced from this Kaggle link: [customer_churn_data](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contained 21 columns and and 3333 rows. It was already pretty much clean with no null values or any outliers.
 
 # What modeling algorithm works best?
 We used Logistic Regression, K-Neighbors, and Decision trees to model our prediction for churn data.
