@@ -81,7 +81,7 @@ The timing of the day and the type of plan had no effect on a customer churning 
 - In the future we would want to be able to use data on specific issues customers called in to customer service with so if we see that it is a repetitive issue we can quickly resolve it. If there is a trend in a specific issue then it is likely that more customers will have that issue as well.  
 
 # For More Information
-Please review our full analysis in our [Jupyter Notebook](Final_Notebook.ipynb) or [presentation deck](./Project3_presentation.pdf).
+Please review our full analysis in our [Jupyter Notebook](Final_Notebook.ipynb) or [presentation deck](./Project3_Presentation.pdf).
 
 ## Repository Structure
 ```
