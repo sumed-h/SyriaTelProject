@@ -9,8 +9,15 @@ We used Logistic Regression, K-Neighbors, and Decision trees to model our predic
 
 # Models
 
+
 # Interpretation
 
+
 # Recommendation
+- We recommend that we should implement customer feedback surveys for customer churn. We could provide an incentive for customers to fill out a survery if they end up leaving us. We could have questions like what they like about our service or what we could have done to better our services. By provding them a incentive to fill out a survery it would increase the probabilty of customers filling it out. 
+- Our second recommendation would be to revise the company's customer service protocol. Based off the "Customer Service Calls" model after a customer makes more than 3 calls to customer service there was a signifcant jump in the probabilty of churning. To treat this we could have a system that keeps track of how many calls have been recieved from a certain customer and flag that account so we know that we should be more sensitive to this customer.    
+- Our final recommendation is to start a reach-out campaign for customers who have a international plan. Working with the marketing department we could start targeting customers with possible deals or promotions that we are offering in order to get new customers or ex customers back with better rates than our competitors. 
 
 # Future Analysis
+- We want to acquire more data on cell signals across the US for patterns in states with higher churn. Bad cell signals could be a high level of probability that customers in a certain state will churn. 
+- Use data on what specific issues customers called in to customer service with
