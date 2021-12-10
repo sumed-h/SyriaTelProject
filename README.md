@@ -1,11 +1,16 @@
 # SyriaTelProject
 Flatiron Phase 3 Project - Customer Churn @ SyriaTel 
+
+![chart1](./Images/syria.png)
+
+**Authors**
+[Aalok Joshi](https://www.linkedin.com/in/aalokjoshi113/), [Sumedh Bhardwaj](https://www.linkedin.com/in/sumedh-bhardwaj-932767202/), [Wahaj Dar](https://www.linkedin.com/in/wahaj-dar-/)
 # Introduction
 SyriaTel is a telecommunications company hoping to foresee and prevent client churn. Customer churn is the percentage of clients that quit utilizing an company's product or service during a specific time span. It very well may be a significant issue since it impacts a company's client faithfulness and ultimately influences company's revenue.
 We built a classfier to predict when a customer will soon stop doing business with SyriaTel. The audience will be SyriaTel itself who are interested in how to improve their customer rettention rates.
 
 # Dataset
-The dataset we used was sourced from this Kaggle link: [customer_churn_data](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contained 21 columns and and 3333 rows. It was already pretty much clean with no null values or any outliers.
+For this project the data we used can be found [here](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset). It contained 21 columns and and 3333 rows. It was already pretty much clean with no null values or any outliers.
 
 # What modeling algorithm works best?
 We used Logistic Regression, K-Neighbors, and Decision trees to model our prediction for churn data.
@@ -64,3 +69,14 @@ The timing of the day and the type of plan had no effect on a customer churning 
 # Future Analysis
 - We want to acquire more data on cell signals across the US for patterns in states with higher churn. Bad cell signals could indicate a higher probability that customers in a certain state will churn in that state. 
 - In the future we would want to be able to use data on specific issues customers called in to customer service with so if we see that it is a repetitive issue we can quickly resolve it. If there is a trend in a specific issue then it is likely that more customers will have that issue as well.  
+
+# For More Information
+Please review our full analysis in our [Jupyter Notebook](Final_Notebook.ipynb) or [presentation deck](./Project3_presentation.pdf).
+
+## Repository Structure
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── Final Notebook .ipynb               <- Narrative documentation of analysis in Jupyter notebook
+├── Project3_presentation.pdf           <- PDF version of project presentation
+├── customer_churn_data.csv             <- Both sourced externally and generated from code
+└── Images                              <- Both sourced externally and generated from code
