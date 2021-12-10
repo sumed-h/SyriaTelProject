@@ -19,5 +19,5 @@ We used Logistic Regression, K-Neighbors, and Decision trees to model our predic
 - Our final recommendation is to start a reach-out campaign for customers who have a international plan. Working with the marketing department we could start targeting customers with possible deals or promotions that we are offering in order to get new customers or ex customers back with better rates than our competitors. 
 
 # Future Analysis
-- We want to acquire more data on cell signals across the US for patterns in states with higher churn. Bad cell signals could be a high level of probability that customers in a certain state will churn. 
-- Use data on what specific issues customers called in to customer service with
+- We want to acquire more data on cell signals across the US for patterns in states with higher churn. Bad cell signals could indicate a higher probability that customers in a certain state will churn in that state. 
+- In the future we would want to be able to use data on specific issues customers called in to customer service with so if we see that it is a repetitive issue we can quickly resolve it. If there is a trend in a specific issue then it is likely that more customers will have that issue as well.  
