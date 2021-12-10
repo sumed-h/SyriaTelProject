@@ -11,8 +11,19 @@ We used Logistic Regression, K-Neighbors, and Decision trees to model our predic
 
 ## Account Length
 We saw that account length doesn't seem to have a significant effect on the overall chance a customer quits the service or not because the means and standard deviations are relatively the same 
-![CustomerService](images/CustomerService.png)
+![Account Length](Images/Account Length.png)
 
+### International Plan
+
+### State
+
+### Voicemail Plan
+
+### Customer Service Calls
+
+### Rates 
+
+### Total Calls
 # Interpretation
 
 
