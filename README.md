@@ -1,6 +1,7 @@
 # SyriaTelProject
 Flatiron Phase 3 Project - Customer Churn @ SyriaTel 
 
+
 ![chart1](./Images/syria.png)
 
 **Authors**
